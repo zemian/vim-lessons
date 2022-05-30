@@ -20,6 +20,8 @@ Press `ESC` to exit INSERT mode back to Normal Mode, then Press `:` to enter Com
 
 Type `wq` to save and exit the Vim.
 
+Extra: Try to exit Insert mode, navigate after the word `Hello`, then press `i` to insert another new word.
+
 
 ## Exercise2: Open an file and navigate the cursor
 
