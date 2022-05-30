@@ -2,7 +2,7 @@
 
 1. The Normal(Read) Mode: When you first enter VIM, it is in this default mode. You can move cursor around in this mode, but not able to enter text! Pressing `ESC` key will always get you back to Normal mode. When you are in this Normal mode, you may navigate the content of your document using cursor moving keys: Press `h` will move cursor to left, `j` down, `k` up, and `l` to the right.
 
-NOTE: You always want to be in Normal Mode before entering into other modes!
+	NOTE: You always want to be in Normal Mode before entering into other modes!
 
 2. The Insert Mode: Press `i` to change to this mode. When you are in this mode, all your keystrokes are used to enter text. The `h` will not go left of cursor anymore, but actually enter the value of `h` into the document. When you are done typing, press `ESC` to exit the Insert mode.
 
