@@ -1,3 +1,5 @@
+# Editing Text in Vim
+
 ## How to insert text efficiently
 
 When entering Insert mode, you can use different command to quickly position the cursor before inserting new text.
