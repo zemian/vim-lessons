@@ -14,4 +14,15 @@ Try running the following commands to verify:
 	which vim
 	vim -version
 
+
+Here is how it looks like on MacOS:
+
+![Vim on MacOS Terminal](images/macos-vim.png?raw=true)
+
+
 If you are on Windows, you may install Vim as standalone program, or I would recommend you to download a package of tools that comes with Vim from https://git-scm.com/download/win. This GitBash for Windows will comes with a "Linux Terminal Simulator" called MinGW (Minimalist GNU for Windows), and with it, comes with a Bash shell that let you manipulate Terminal with many of Linux commond commands. One of such command is actually "vim"! You may run above verification commands to ensure vim is installed properly.
+
+
+Here is the Git Bash look like on Windows
+
+![Bash Terminal on Windows](images/gitbash.png?raw=true)
