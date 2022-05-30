@@ -1,8 +1,14 @@
-Lesson1: Vim Adentures
+Lesson1: Start and Quit
 
-1. Install GitBash for Windows
-2. "which vim"
-3. Create hello.txt using vim
-4. See https://www.vim.org/docs.php
-5. Try https://vim-adventures.com/
+To start:
 
+	vim
+
+	# Or start with an existingfile
+	vim hello.txt
+
+To quit:
+
+	1. Press `ESC`
+	2. Type `:q!`
+	3. Press `ENTER`
